@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fazeelzama20
+- 👋 Hi,
 - 👀 I’m interested in latest tech
-- ✨ Javascript professional
+- ✨ Javascript/React professional
 
 <!---
 fazeelzama20/fazeelzama20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
